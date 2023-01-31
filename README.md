@@ -1,3 +1,6 @@
 # LINUX_FUNDAMENTALS
+
+<img src="https://res.cloudinary.com/teepublic/image/private/s--UooNVowZ--/t_Resized%20Artwork/c_fit,g_north_west,h_1054,w_1054/co_ffffff,e_outline:53/co_ffffff,e_outline:inner_fill:53/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1583082626/production/designs/8253148_0.jpg">
+
+
 # This is my head-start with the Linux Operating System.
-<img src="https://www.unixmen.com/wp-content/uploads/2015/09/1385698302_funny_linux_wallpapers.jpg">
